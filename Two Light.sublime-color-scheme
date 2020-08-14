@@ -45,9 +45,9 @@
         "highlight": "var(base10)",
         "find_highlight": "var(base9)",
         "find_highlight_foreground": "var(base11)",
-        "brackets_options": "underline foreground",
+        "brackets_options": "underline foreground bold",
         "brackets_foreground": "var(base8)",
-        "bracket_contents_options": "underline foreground",
+        "bracket_contents_options": "underline foreground bold",
         "bracket_contents_foreground": "var(base7)",
         "tags_options": "stippled_underline"
     },
