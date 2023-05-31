@@ -1,6 +1,6 @@
 # Color Scheme Two
 
-A color scheme based on Atom's One for Sublime Text 3.
+A color scheme based on Atom's One for Sublime Text 3/4.
 
 
 ## Design
@@ -24,10 +24,10 @@ _Two Dark:_
 
 ### Manual Installation:
 
-1. Download [Color-Scheme-Two](https://github.com/bitst0rm-pub/Color-Scheme-Two)
+1. Download [Color-Scheme-Two](https://github.com/bitst0rm-pub/color-scheme-two)
 2. Extract and copy the folder to Sublime `Packages` directory.
 
 
 ## License
 
-Color Scheme Two is licensed under the [MIT license](https://github.com/bitst0rm-pub/Color-Scheme-Two/blob/master/LICENSE).
+Color Scheme Two is licensed under the [MIT license](https://github.com/bitst0rm-pub/color-scheme-two/blob/master/LICENSE).
